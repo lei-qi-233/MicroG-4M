@@ -7,7 +7,7 @@ This folder contains all statistical and evaluation information for the MicroG-4
 ### [dataset_statistics](./dataset_statistics/) Folder
 In this folder are all the statistics for the dataset itself and HAR task.
 
-[HAR_Dataset_Statistics.pdf](statistics/HAR_Dataset_Statistics.pdf) organizes all the statistical data from raw csv files for easy viewing.
+[HAR_Dataset_Statistics.pdf](./dataset_statistics/HAR_Dataset_Statistics.pdf) organizes all the statistical data from raw csv files for easy viewing.
 
 The csv files in the folder contain the raw information of different statistical data.
 

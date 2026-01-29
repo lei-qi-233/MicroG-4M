@@ -79,7 +79,13 @@ All statistic data of dataset itself and of benchmark are in the [statistics](./
 ---
 
 ## Contributors
-HAR-in-Space is written and maintained by [Lei Qi](https://github.com/LEI-QI-233), [Di Wen](https://github.com/Kratos-Wen) and [Kunyu Peng](https://cvhci.iar.kit.edu/people_2123.php)
+The MicroG-4M benchmark dataset and this GitHub repository are established and maintained by:
+
+* **[Lei Qi](https://github.com/LEI-QI-233)**<sup>*</sup>: Dataset curation, HAR annotation & benchmarking.
+* **[Di Wen](https://github.com/Kratos-Wen)**<sup>*</sup>: VQA & Captioning annotation & benchmarking.
+* **[Kunyu Peng](https://cvhci.iar.kit.edu/people_2123.php)**: Research supervision.
+
+<sup>*</sup> **Equal contribution (Co-first authors).**
 
 ## Citing MicroG-4M
 

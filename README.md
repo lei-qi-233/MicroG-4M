@@ -1,9 +1,9 @@
 <div align="center">
   <h1>MicroG-4M: A Benchmark Dataset Specific for HAR, VQA, and Captioning under Microgravity</h1>
 
-  <div>
-    <a href='https://scholar.google.com/citations?user=aqGMqEcAAAAJ' target='_blank'>Di Wen</a>&emsp;
-    <a href='https://openreview.net/profile?id=%7ELei_Qi3' target='_blank'>Lei Qi</a>&emsp;
+<div>
+    <a href='https://scholar.google.com/citations?user=aqGMqEcAAAAJ' target='_blank'>Di Wen<sup>*</sup></a>&emsp;
+    <a href='https://openreview.net/profile?id=%7ELei_Qi3' target='_blank'>Lei Qi<sup>*</sup></a>&emsp;
     <a href='https://scholar.google.com/citations?user=pA9c0YsAAAAJ' target='_blank'>Kunyu Peng<sup>&#8224;</sup></a>&emsp;
     <a href='https://yangkailun.com/' target='_blank'>Kailun Yang</a>&emsp;
     <a href='https://scholar.google.com/citations?user=9A9B_u0AAAAJ' target='_blank'>Fei Teng</a>&emsp;
@@ -18,7 +18,7 @@
 
   <br>
   <strong>Accepted to <a href='https://iclr.cc/Conferences/2026' target='_blank'>ICLR 2026</a></strong> 🎉<br>
-  <sub><sup>&#8224;</sup> Corresponding author</sub><br>
+  <sub><sup>*</sup> Equal contribution &emsp; <sup>&#8224;</sup> Corresponding author</sub><br>
 
 ![](./assets/main_teaser.jpg)
 

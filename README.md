@@ -21,7 +21,7 @@
   <sub><sup>*</sup> Equal contribution &emsp; <sup>&#8224;</sup> Corresponding author</sub><br>
 
 ![](./assets/main_teaser.jpg)
-
+</div>
 ---
 
 ### 🚀 Quick Links

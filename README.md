@@ -1,5 +1,25 @@
 # MicroG-4M: a benchmark dataset specific for HAR, VQA, and Captioning under microgravity
 
+<div>
+    <a href='https://scholar.google.com/citations?user=aqGMqEcAAAAJ' target='_blank'>Di Wen</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=Gf1v_6MAAAAJ' target='_blank'>Lei Qi<sup>&#8224;</sup></a>&emsp;
+    <a href='https://kunyupeng.github.io/' target='_blank'>Kunyu Peng</a>&emsp;
+    <a href='https://kailunyang.com/' target='_blank'>Kailun Yang</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=9A9B_u0AAAAJ' target='_blank'>Fei Teng</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=W96I_lAAAAAJ' target='_blank'>Ao Luo</a><br>
+    <a href='https://scholar.google.com/citations?user=vK6jKMoAAAAJ' target='_blank'>Jia Fu</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=z6X8q8MAAAAJ' target='_blank'>Yufan Chen</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=fR_V19YAAAAJ' target='_blank'>Ruiping Liu</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=v5Wp9-sAAAAJ' target='_blank'>Yitian Shi</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=4YLsmYIAAAAJ' target='_blank'>M. Saquib Sarfraz</a>&emsp;
+    <a href='https://scholar.google.com/citations?user=m_p4_YQAAAAJ' target='_blank'>Rainer Stiefelhagen</a>
+  </div>
+
+  <br>
+  <strong>Accepted to <a href='https://iclr.cc/Conferences/2026' target='_blank'>ICLR 2026</a></strong> 🎉<br>
+  <sub><sup>&#8224;</sup> Corresponding author</sub><br>
+
+
 ![](./assets/main_teaser.jpg)
 
 ---

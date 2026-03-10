@@ -23,6 +23,7 @@
 
 ![](./assets/main_teaser.jpg)
 </div>
+
 ---
 
 ### 🚀 Quick Links

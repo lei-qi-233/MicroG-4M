@@ -114,12 +114,15 @@ The MicroG-4M benchmark dataset and this GitHub repository are established and m
 If you find this dataset useful in your research, please use the following BibTeX entry for citation:
 
 ```bibtex
-@inproceedings{wen2026go,
-  title={{Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments}},
-  author={Di Wen and Lei Qi and Kunyu Peng and Kailun Yang and Fei Teng and Ao Luo and Jia Fu and Yufan Chen and Ruiping Liu and Yitian Shi and M. Saquib Sarfraz and Rainer Stiefelhagen},
-  booktitle={International Conference on Learning Representations (ICLR)},
-  year={2026},
-  url={https://openreview.net/forum?id=gygGCVXeh3}
+@inproceedings{ICLR2026_16d01d8b,
+ author = {Wen, Di and Qi, Lei and Peng, Kunyu and Yang, Kailun and Teng, Fei and Luo, Ao and Fu, Jia and Chen, Yufan and Liu, Ruiping and Shi, Yitian and Sarfraz, M. and Stiefelhagen, Rainer},
+ booktitle = {International Conference on Learning Representations},
+ editor = {C. Vondrick and B. Hariharan and C. Raffel and L. Pinto and D. Yang and A. Faust},
+ pages = {13433--13468},
+ title = {Go Beyond Earth: Understanding Human Actions and Scenes in Microgravity Environments},
+ url = {https://proceedings.iclr.cc/paper_files/paper/2026/file/16d01d8b6e017d7c4319857d604a95a8-Paper-Conference.pdf},
+ volume = {2026},
+ year = {2026}
 }
 ```
 

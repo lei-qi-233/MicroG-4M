@@ -103,7 +103,7 @@ All statistic data of dataset itself and of benchmark are in the [statistics](./
 ## Contributors
 The MicroG-4M benchmark dataset and this GitHub repository are established and maintained by:
 
-* **[Lei Qi](https://github.com/LEI-QI-233)**<sup>*</sup>: Dataset curation, HAR annotation & benchmarking.
+* **[Lei Qi](https://github.com/LEI-QI-233)**<sup>*</sup>: Dataset construction, HAR annotation & benchmarking.
 * **[Di Wen](https://github.com/Kratos-Wen)**<sup>*</sup>: VQA & Captioning annotation & benchmarking.
 * **[Kunyu Peng](https://cvhci.iar.kit.edu/people_2123.php)**: Research supervision.
 

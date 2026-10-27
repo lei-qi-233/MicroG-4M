@@ -48,6 +48,12 @@
 
 ---
 
+### 📢 Updates
+
+**2026-10-27:** One source video used in MicroG-4M (YouTube ID: `G8gZRWJ4jSo`) has been reported as unavailable, affecting three annotated clips. We have contacted its potential publishers to clarify permissions for continued use and redistribution of these clips. We will update [Issue #1](https://github.com/lei-qi-233/MicroG-4M/issues/1) as soon as more information becomes available.
+
+---
+
 Despite substantial progress in terrestrial video understanding, most existing datasets remain limited to Earth’s gravity. Microgravity alters human motion, interactions, and Video semantics—walking resembles swimming, objects float unpredictably, and activities occur within confined spacecraft interiors—revealing a critical gap for domain-robust vision systems in safety-critical space applications.  
 
 To address this, we introduce **MicroG-4M**, the first large-scale dataset and benchmark for spatio-temporal and semantic understanding of human activities in microgravity. MicroG-4M includes:

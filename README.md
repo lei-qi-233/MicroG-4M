@@ -50,9 +50,9 @@
 
 ### 📢 Updates
 
-**2026-10-28:** We added [`VIDEO_MAPPING.md`](https://huggingface.co/datasets/lei-qi-233/MicroG-4M/blob/main/videos/VIDEO_MAPPING.md) to the `videos` folder of our Hugging Face repository. From now on, the new videos for all unavailable source videos and how to process them will be updated there.
+**2026-10-28:** We added [`VIDEO_MAPPING.md`](https://huggingface.co/datasets/lei-qi-233/MicroG-4M/blob/main/videos/VIDEO_MAPPING.md) to the `videos` folder of our Hugging Face repository. From now on, the new videos for all unavailable source videos and how to process them will be updated there. This includes the new videos for `G8gZRWJ4jSo`.
 
-**2026-10-28:** A temporary workaround is now available for the unavailable source video `G8gZRWJ4jSo`: the same video is still hosted on the publisher's official website, and we have verified that it corresponds frame by frame to the three affected clips. See [Issue #1](https://github.com/lei-qi-233/MicroG-4M/issues/1) for the source and the exact frame correspondence. We are still working on a permanent solution and will post further updates there.
+**2026-10-28 (superseded by the update above):** A temporary workaround is now available for the unavailable source video `G8gZRWJ4jSo`: the same video is still hosted on the publisher's official website, and we have verified that it corresponds frame by frame to the three affected clips. See [Issue #1](https://github.com/lei-qi-233/MicroG-4M/issues/1) for the source and the exact frame correspondence. We are still working on a permanent solution and will post further updates there.
 
 **2026-10-27:** One source video used in MicroG-4M (YouTube ID: `G8gZRWJ4jSo`) has been reported as unavailable, affecting three annotated clips. We have contacted its potential publishers to clarify permissions for continued use and redistribution of these clips. We will update [Issue #1](https://github.com/lei-qi-233/MicroG-4M/issues/1) as soon as more information becomes available.
 

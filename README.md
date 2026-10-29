@@ -121,14 +121,11 @@ The MicroG-4M benchmark dataset and this GitHub repository are established and m
 
 <sup>*</sup> **Equal contribution (Co-first authors).**
 
----
 
 ## Use of AI Tools
 When the MicroG-4M benchmark was created and released, large language models were not yet mature. The code was written and the models were trained mainly by hand, with AI tools used only as assistants; no AI tools were used to carry out this work automatically.
 
 Starting from 2026-10-28, much of the dataset maintenance, such as finding alternative videos for unavailable sources and verifying their frame correspondence, is carried out by AI tools and reviewed by the authors.
-
----
 
 ## Citing MicroG-4M
 
@@ -146,8 +143,6 @@ If you find this dataset useful in your research, please use the following BibTe
  year = {2026}
 }
 ```
-
----
 
 ## Reference
 Our action-recognition baselines base on code from [PySlowFast](https://github.com/facebookresearch/SlowFast)
